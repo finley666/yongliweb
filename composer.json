@@ -16,6 +16,6 @@
         "aliyuncs/oss-sdk-php": "^2.3"
     },
 	"autoload": {
-		"psr-4": { "yii2\\yii2-yongliweb\\": "" }
+		"psr-4": { "finley666\\yongliweb\\": "" }
 	}
 }
