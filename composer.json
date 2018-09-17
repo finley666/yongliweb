@@ -1,6 +1,6 @@
 {
-    "name": "yii2/yii2-yongliweb-image",
-    "description": "yii2yongli插件",
+    "name": "finley666/yii2-yongliweb",
+    "description": "yii2插件",
 	"keywords": ["yii", "yongli"],
 	"type": "library",
     "license": "MIT",
