@@ -2,7 +2,7 @@
   'components' => [
         //阿里云oss
         'oss' => [
-            'class' => 'yongli\yongli\AliOss',
+            'class' => 'finley666\yongliweb\AliOss',
             'accessKeyId' =>'',
             'accessKeySecret' =>'',
             'host' => '',  
@@ -10,7 +10,7 @@
         ],
         //七牛
         'qiniu'=> [
-            'class' => 'yongli\yongli\Qiniu',
+            'class' => 'finley666\yongliweb\Qiniu',
             'accessKey' => '',
             'secretKey' => '',
             'domain' => '',
