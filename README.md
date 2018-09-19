@@ -19,8 +19,9 @@
         ],
   ]
   
+  
   调用:
-  //aliyun oss  
+  //aliyun oss对象存储
   $ossClient = Yii::$app->oss;
   $ossClient->uploadFile($object, $tempName);
   
