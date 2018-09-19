@@ -21,11 +21,11 @@
   
   
   调用:
-  //aliyun oss对象存储
+  //aliyun oss
   $ossClient = Yii::$app->oss;
   $ossClient->uploadFile($object, $tempName);
   
-  //七牛 对象存储
+  //七牛 
   $qiNiu = Yii::$app->qiniu;
   $qiNiu->uploadFile($tempName,$filename);
   
