@@ -25,7 +25,7 @@
   $ossClient = Yii::$app->oss;
   $ossClient->uploadFile($object, $tempName);
   
-  //七牛 
+  //七牛 对象存储
   $qiNiu = Yii::$app->qiniu;
   $qiNiu->uploadFile($tempName,$filename);
   
